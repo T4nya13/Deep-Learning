@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+  color: white;
+  position: relative;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
